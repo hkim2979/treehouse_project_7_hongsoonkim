@@ -1,5 +1,5 @@
 # Treehouse Webapp Dashboard - Hongsoon Kim
-<p>.</p>
+<p>In this project, I used HTML, CSS and JavaScript to build a web dashboard. Images were completed with JavaScript-driven charts and graphs.</p>
 
 ## Live Demo
 Click [Link](https://hkim2979.github.io/project_7/) for a live look.
@@ -11,4 +11,4 @@ Click [Link](https://hkim2979.github.io/project_7/) for a live look.
  ## Skills
 - HTML
 - CSS
-- Javascript
+- JavaScript
